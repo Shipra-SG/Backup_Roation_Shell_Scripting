@@ -141,5 +141,3 @@ This project is open-source and available under the MIT License.
 
 **Shipra**
 Linux | DevOps | Cloud Enthusiast
-
-Bas bolo 👉 **“next project ya interview prep”** 💙
